@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/index.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,OAAO,IAAI,QAAQ,GAEpB,MAAM,sBAAsB,CAAC","sourcesContent":["export {\n  default as GyroView,\n  Props as GyroViewProps,\n} from \"./ExpoSampleGyroView\";\n"]}
